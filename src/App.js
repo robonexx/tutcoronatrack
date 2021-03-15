@@ -4,7 +4,6 @@ import Chart from './components/Chart/Chart';
 import CountyPicker from './components/CountryPicker/CountryPicker';
 import styles from './App.module.css';
 import{ fetchData } from './api';
-import { render } from '@testing-library/react';
 
 
 class App extends React.Component {
